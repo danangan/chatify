@@ -8,7 +8,8 @@
   },
   "dependencies": {
     "apollo-server": "^2.19.0",
-    "graphql": "^15.4.0"
+    "graphql": "^15.4.0",
+    "shortid": "^2.2.16"
   },
   "devDependencies": {
     "nodemon": "^2.0.6"
